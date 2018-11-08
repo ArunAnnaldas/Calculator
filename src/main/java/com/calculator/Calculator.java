@@ -3,7 +3,7 @@ package com.calculator;
 public class Calculator {
 
     public int add(int a, int b) {
-        return a+b;
+        return a+b+a;
     }
 
     public int subtract(int a, int b) {
